@@ -1,0 +1,12 @@
+{
+    "DEMO.TITLE":"<h3>React国际化小案例</h3>",
+    "TABLECOL.NAME": "姓名",
+    "TABLECOL.AGE": "年龄",
+    "TABLECOL.MONEY": "存款",
+    "TABLECOL.BIRTHDAY": "出生日期",
+    "PRICE.FORMAT": "{price,number,CNY}",
+    "DATE.FORMAT": "{date,date,short}",
+    "AGE.FORMAT":"{age,number,integer}岁",
+    "LANG.BTN":"英文",
+    "CHOOSE_LANG":"选择语言"
+}

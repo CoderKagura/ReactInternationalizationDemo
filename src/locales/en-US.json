@@ -1,0 +1,12 @@
+{
+  "DEMO.TITLE":"<h3>React Internationalization Demo</h3>",
+  "TABLECOL.NAME": "Name",
+  "TABLECOL.AGE": "Age",
+  "TABLECOL.MONEY": "Money",
+  "TABLECOL.BIRTHDAY": "Birthday",
+  "PRICE.FORMAT": "{price,number,USD}",
+  "DATE.FORMAT": "{date,date,long}",
+  "AGE.FORMAT":"{age,number,integer}-year-old",
+  "LANG.BTN":"Chinese",
+  "CHOOSE_LANG":"Choose Language"
+}
